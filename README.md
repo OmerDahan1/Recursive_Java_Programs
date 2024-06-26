@@ -58,6 +58,8 @@ Each program can be compiled and executed individually. Here’s a general guide
 ## Dependencies:
     
 - **StdDraw Library:** Used for graphical output in `Sierpinski.java` and `Koch.java`.
-- **Installation:** Download the `StdDraw.java` file from [here](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java) and place it in the same directory as the Java files.
+- **Installation:** The code of `StdDraw.java` is available [here](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java).
+                    place it in the same directory as the Java files.
+
 
 
